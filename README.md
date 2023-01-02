@@ -14,7 +14,7 @@ Hey there, In this project I have built a food-tracker web app with python Flask
 3. Finally, you can add food items in those dates you have specified and track your progress from there.
 
 <h1>Improvements in the future?</h1>
-- There will be definetely account feature that will allow you to have a private account
+-  There will be definetely account feature that will allow you to have a private account
 - There will be stats page where there will be a lot of graphs that show your performance.
 Of course, there are a lot can be done for this project but those 2 are good enough for me to accomplish in short run. I will put on top of it gradually. 
 
