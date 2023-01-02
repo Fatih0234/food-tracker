@@ -19,10 +19,13 @@ Hey there, In this project I have built a food-tracker web app with python Flask
 Of course, there are a lot can be done for this project but those 2 are good enough for me to accomplish in short run. I will put on top of it gradually. 
 
 <h1>What the app looks like</h1>
+<h2> Home Page </h2>
 <img src="pictures/home-page.png" alt="calculator" width="300" height="500">
 <br>
+<h2> Day Section </h2>
 <img src="pictures/day-section.png" alt="calculator" width="300" height="500">
 <br>
+<h2> Adding Food Section </h2>
 <img src="pictures/adding-food.png" alt="calculator" width="300" height="500">
 
 - 🌱 I’m currently learning **data structures and web development**
